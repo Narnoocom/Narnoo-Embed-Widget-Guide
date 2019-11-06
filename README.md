@@ -59,7 +59,7 @@ https://booking-widget.narnoo.com/button-widget.min.js
   });
 </script>
 ```
-#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/widgets/README.md)
+#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/master/widgets/README.md)
 
 <br>
 
@@ -95,7 +95,7 @@ https://booking-widget.narnoo.com/button-widget.min.js
 </script>
 ```
 
-#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/widget-booking-buttons/README.md)
+#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/master/widget-booking-buttons/README.md)
 
 <br>
 
@@ -128,5 +128,5 @@ https://booking-widget.narnoo.com/button-widget.min.js
     });
 </script>
 ```
-#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/widget-cart-buttons/README.md)
+#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/master/widget-cart-buttons/README.md)
 
