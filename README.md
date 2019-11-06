@@ -59,7 +59,7 @@ https://booking-widget.narnoo.com/button-widget.min.js
   });
 </script>
 ```
-#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/master/widgets/README.md)
+#### [View Guide and Usage Here](https://github.com/Narnoocom/Narnoo-Embed-Widget-Guide/blob/master/widget/README.md)
 
 <br>
 
